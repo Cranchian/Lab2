@@ -1,2 +1,2 @@
 # Lab2
-Connecting git
+Made some changes
